@@ -1,0 +1,65 @@
+.logocolor{
+        color: #7D1111 !important;
+}
+.sidenavcolor{
+    background-color: #7D1111 !important;
+}
+.topsidenav{
+    top:65px !important;
+}
+
+.mycircle {
+    border-radius: 50px;
+    font-size: 36px;
+    color: #fff;
+    line-height: 50px;
+    text-align: center;
+    position: absolute;
+    width: 67.56px;
+    height: 67.56px;
+    left: 762.21px;
+    top: 571px;
+    background: #D11B1B;
+    box-shadow: inset 0px 4px 40px #000000;
+    border:solid black 1px; 
+    padding:10px
+  }
+
+
+  .card-panelll {
+    transition: box-shadow .25s;
+    padding: 34px;
+    margin: 13.5rem 0 0 0;
+    border-radius: 2px;
+    height: 50%;
+    background-color: #fff;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 121px;
+    padding-top: 55px;
+    box-shadow: 6px 0.3px 12.1px 0.9px rgba(0, 0, 0, 0.24);
+    border-radius: 10px;
+    border: 2px solid skyblue;
+
+}
+
+
+@media only screen and (max-width : 992px) {
+    .card-panelll {
+        transition: box-shadow .25s;
+        padding: 20px;
+        margin: 11.5rem 0 1rem 0;
+        border-radius: 2px;
+        height: 376px;
+        background-color: #fff;
+        width: auto;
+        margin-left: 54px;
+        min-width: 279px;
+        margin-right: auto;
+        box-shadow: 6px 0.3px 12.1px 0.9px rgba(0, 0, 0, 0.24);
+        align-self: center;  
+    }
+
+}
+  
